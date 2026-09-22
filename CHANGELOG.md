@@ -7,6 +7,8 @@ OpenVue forked from PrimeVue at 4.5.5. Pre-fork history is in [CHANGELOG_PRIMEVU
 All packages in this repository are released together under a single version.
 
 ## [Unreleased]
+
+### Fixes
 - Fix populating time in DatePicker when using 24-hour format
 
 ## [1.0.0] - 2026-09-10
